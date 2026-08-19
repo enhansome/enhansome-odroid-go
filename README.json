@@ -1,14 +1,439 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Projects"
+      "description": "A collection of awesome ODROID-GO emulators, games and resources",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go-Play",
+          "description": "Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137759166,
+            "language": "C",
+            "last_commit": "2020-02-29T17:00:30Z",
+            "owner": "OtherCrashOverride",
+            "repo": "go-play",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Go-Play",
+          "description": "Most updated fork, GB Color Palettes, better volume, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172660001,
+            "language": "C",
+            "last_commit": "2020-02-29T17:01:54Z",
+            "owner": "mattkj",
+            "repo": "super-go-play",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c64-go",
+          "description": "Commodore 64 emulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151818726,
+            "language": "C",
+            "last_commit": "2019-03-19T16:09:36Z",
+            "owner": "Schuemi",
+            "repo": "c64-go",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fMSX-go",
+          "description": "fMSX emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144999661,
+            "language": "C",
+            "last_commit": "2018-10-24T10:52:45Z",
+            "owner": "Schuemi",
+            "repo": "fMSX-go",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stella",
+          "description": "Atari 2600 emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143240535,
+            "language": "C",
+            "last_commit": "2020-03-01T18:13:48Z",
+            "owner": "OtherCrashOverride",
+            "repo": "stella-odroid-go",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frodo-Go",
+          "description": "Commodore 64 emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154238911,
+            "language": "C",
+            "last_commit": "2018-11-01T13:44:31Z",
+            "owner": "OtherCrashOverride",
+            "repo": "frodo-go",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Emulator Launcher",
+          "description": "Open Source Emulator Launcher for Odroid Go to replace Springboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163631526,
+            "language": "C",
+            "last_commit": "2021-06-15T03:14:19Z",
+            "owner": "IlyaMZP",
+            "repo": "emulator-launcher-odroid-go",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProSystem",
+          "description": "Atari 7800 emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143414749,
+            "language": "C",
+            "last_commit": "2018-08-06T07:15:27Z",
+            "owner": "OtherCrashOverride",
+            "repo": "prosystem-odroid-go",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NES Multiplayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169234067,
+            "language": "C",
+            "last_commit": "2019-02-05T12:02:23Z",
+            "owner": "OtherCrashOverride",
+            "repo": "nes-mp-go",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Awesome ODROID-GO"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Duke Nukem 3D",
+          "description": "youtube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155053230,
+            "language": "C",
+            "last_commit": "2018-12-17T07:09:59Z",
+            "owner": "jkirsons",
+            "repo": "Duke3D",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTyrian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148194640,
+            "language": "C",
+            "last_commit": "2024-06-10T10:50:52Z",
+            "owner": "jkirsons",
+            "repo": "OpenTyrian",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wolfenstein 3D & Spear of Destiny",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158581363,
+            "language": "C++",
+            "last_commit": "2019-01-19T17:50:33Z",
+            "owner": "jkirsons",
+            "repo": "wolf4sdl",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142557260,
+            "language": "C",
+            "last_commit": "2018-08-27T10:53:45Z",
+            "owner": "mad-ady",
+            "repo": "doom-odroid-go",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloneKeen",
+          "description": "Commander Keen clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171100439,
+            "language": "C",
+            "last_commit": "2019-02-23T13:32:16Z",
+            "owner": "jkirsons",
+            "repo": "CloneKeen",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doom with sound",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154833653,
+            "language": "C",
+            "last_commit": "2018-12-26T16:56:16Z",
+            "owner": "mad-ady",
+            "repo": "doom-ng-odroid-go",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pong",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162346210,
+            "language": "C++",
+            "last_commit": "2018-12-22T10:00:14Z",
+            "owner": "khuenqdev",
+            "repo": "goduino",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlappyBird",
+          "description": "Flappy bird clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166884881,
+            "language": "C++",
+            "last_commit": "2019-03-13T14:25:25Z",
+            "owner": "vbrusca",
+            "repo": "FlappyBirdCloneOdroidGo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mulg-Go",
+          "description": "Port of Mulg (levels).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185979773,
+            "language": "C",
+            "last_commit": "2019-05-10T12:33:14Z",
+            "owner": "johannesbehr",
+            "repo": "mulg-go",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firmware Updater",
+          "description": "Odroid Go FW Updater.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172908477,
+            "language": "C++",
+            "last_commit": "2020-01-09T11:43:25Z",
+            "owner": "ripper121",
+            "repo": "odroidgoupdater",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odroid-Go Updater",
+          "description": "updates firmwares over WiFi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172908477,
+            "language": "C++",
+            "last_commit": "2020-01-09T11:43:25Z",
+            "owner": "ripper121",
+            "repo": "odroidgoupdater",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroPython",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142483153,
+            "language": "C",
+            "last_commit": "2018-07-26T22:14:15Z",
+            "owner": "OtherCrashOverride",
+            "repo": "MicroPython_ESP32_psRAM_LoBo-odroid-go",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPS Navi with Odroid Go and Neo-6M",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169060648,
+            "language": "C",
+            "last_commit": "2021-06-23T08:14:45Z",
+            "owner": "ripper121",
+            "repo": "OdroidGoOSMGPSOffline",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MP3 Player",
+          "description": "Internal and external DAC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179682791,
+            "language": "C",
+            "last_commit": "2019-04-17T12:01:29Z",
+            "owner": "ripper121",
+            "repo": "odroidgomp3",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WIFI Sniffer PCAP Wireshark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167940780,
+            "language": "HTML",
+            "last_commit": "2019-02-27T11:28:48Z",
+            "owner": "ripper121",
+            "repo": "odroidgowifisniffer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sphero BB-8 remote control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150641864,
+            "language": "C",
+            "last_commit": "2019-01-23T22:52:19Z",
+            "owner": "asirinelli",
+            "repo": "odroid-go-bb8",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bluetooth Keyboard",
+          "description": "turns the go into a BT remote.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154239110,
+            "language": "C",
+            "last_commit": "2018-10-23T01:05:34Z",
+            "owner": "OtherCrashOverride",
+            "repo": "bt-keyboard-go",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP-IDF Port of the Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 168666016,
+            "language": "Objective-C",
+            "last_commit": "2021-01-06T01:28:22Z",
+            "owner": "dleslie",
+            "repo": "odroid-go-examples-for-esp-idf",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Extras"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:49:37.530Z",
+    "last_updated": "2026-08-19T12:43:16.506Z",
     "original_repository": "chrisdiana/awesome-odroid-go",
+    "original_repository_id": 163915403,
     "original_repository_sha": "e443f35737dc5abb796bad1675975f823c3d5ee4",
     "enhanced_repository": "enhansome/enhansome-odroid-go",
     "enhanced_repository_description": null,
