@@ -428,10 +428,111 @@
         }
       ],
       "title": "Extras"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137728350,
+                "language": "C",
+                "last_commit": "2023-02-03T13:51:01Z",
+                "owner": "hardkernel",
+                "repo": "ODROID-GO",
+                "stars": 153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Odroid-Go-Multi-Firmware",
+              "description": "orchestrate multiple skteches without reflashing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189498747,
+                "language": "C",
+                "last_commit": "2022-10-22T10:14:23Z",
+                "owner": "ducalex",
+                "repo": "odroid-go-multi-firmware",
+                "stars": 74
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Guides & Tools"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ESP32 Miscellany",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49985392,
+                    "language": "C",
+                    "last_commit": "2016-01-21T16:38:24Z",
+                    "owner": "sparkfun",
+                    "repo": "ESP32_Miscellany",
+                    "stars": 76
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hardware"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2.6\" 320 x 240 - ILI9342 Libraries",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186053494,
+                    "language": "C",
+                    "last_commit": "2020-12-08T04:36:39Z",
+                    "owner": "retro-esp32",
+                    "repo": "Odroid-GO-ILI9342",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Arduino"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        }
+      ],
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:46:02.088Z",
+    "last_updated": "2026-08-24T14:34:43.899Z",
     "original_repository": "chrisdiana/awesome-odroid-go",
     "original_repository_id": 163915403,
     "original_repository_sha": "e443f35737dc5abb796bad1675975f823c3d5ee4",

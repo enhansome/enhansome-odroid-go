@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,272 | 🐛 106 | 📅 2026-08-21
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -71,20 +71,20 @@
 
 ### Official Resources
 
+* [Github](https://github.com/hardkernel/ODROID-GO) ⭐ 153 | 🐛 13 | 🌐 C | 📅 2023-02-03
 * [Official Wiki](https://wiki.odroid.com/odroid_go/odroid_go)
 * [ODROID-GO by Hardkernel Forum](https://forum.odroid.com/viewforum.php?f=157)
-* [Github](https://github.com/hardkernel/ODROID-GO) ⭐ 153 | 🐛 13 | 🌐 C | 📅 2023-02-03
 * [Official Hardkernel Website](https://www.hardkernel.com)
 
 ### Guides & Tools
 
+* [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) ⭐ 74 | 🐛 2 | 🌐 C | 📅 2022-10-22 - orchestrate multiple skteches without reflashing
 * [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
 * [Make a SD card for importing roms](https://wiki.odroid.com/odroid_go/make_sd_card)
 * [Firmware Update](https://wiki.odroid.com/odroid_go/firmware_update)
 * [Extracting esp32 image with esp32img tool](https://wiki.odroid.com/odroid_go/extract_esp32_img)
 * [Hardware tunning for silent the sound volume](https://wiki.odroid.com/odroid_go/silent_volume)
 * [Writing Applications](https://wiki.odroid.com/odroid_go/write_app)
-* [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) ⭐ 74 | 🐛 2 | 🌐 C | 📅 2022-10-22 - orchestrate multiple skteches without reflashing
 
 ### Projects
 
@@ -94,6 +94,7 @@
 
 #### Arduino
 
+* [2.6" 320 x 240 - ILI9342 Libraries](https://github.com/gaboze-express/Odroid-GO-ILI9342) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2020-12-08
 * [Getting Started with Arduino](https://wiki.odroid.com/odroid_go/arduino/01_arduino_setup)
 * [Hello World](https://wiki.odroid.com/odroid_go/arduino/02_hello_world)
 * [Control Blue LED and PWM](https://wiki.odroid.com/odroid_go/arduino/03_blue_led_and_pwm)
@@ -112,7 +113,6 @@
 * [Build a Colorviewer](https://wiki.odroid.com/odroid_go/arduino/36_colorview)
 * [Build an IR Receiver](https://wiki.odroid.com/odroid_go/arduino/37_ir_receiver)
 * [Make Arduino Applications](https://wiki.odroid.com/odroid_go/arduino_app)
-* [2.6" 320 x 240 - ILI9342 Libraries](https://github.com/gaboze-express/Odroid-GO-ILI9342) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2020-12-08
 
 #### MicroPython
 
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
