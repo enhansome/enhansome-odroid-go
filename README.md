@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,882 | 🐛 106 | 📅 2026-08-21
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
