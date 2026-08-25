@@ -436,7 +436,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "hardkernel/ODROID-GO",
               "description": null,
               "children": [],
               "repo_info": {
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:56:02.577Z",
+    "last_updated": "2026-08-25T06:29:12.753Z",
     "original_repository": "chrisdiana/awesome-odroid-go",
     "original_repository_id": 163915403,
     "original_repository_sha": "e443f35737dc5abb796bad1675975f823c3d5ee4",
