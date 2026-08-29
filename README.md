@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,583 | 🐛 105 | 📅 2026-08-21
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,870 | 🐛 105 | 📅 2026-08-21
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -25,7 +25,7 @@
 
 # Awesome Emulators with stars
 
-* [Go-Play](https://github.com/OtherCrashOverride/go-play/releases) ⭐ 223 | 🐛 38 | 🌐 C | 📅 2020-02-29 - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
+* [Go-Play](https://github.com/OtherCrashOverride/go-play/releases) ⭐ 223 | 🐛 37 | 🌐 C | 📅 2020-02-29 - Emulator Launcher that includes GameBoy, GameBoy Color, NES and SMS emulation.
 * [Super Go-Play](https://github.com/mattkj/super-go-play/releases) ⭐ 40 | 🐛 1 | 🌐 C | 📅 2020-02-29 - Most updated fork, GB Color Palettes, better volume, etc.
 * [c64-go](https://github.com/Schuemi/c64-go) ⭐ 31 | 🐛 5 | 🌐 C | 📅 2019-03-19 - Commodore 64 emulator
 * [fMSX-go](https://github.com/Schuemi/fMSX-go) ⭐ 24 | 🐛 10 | 🌐 C | 📅 2018-10-24 - fMSX emulator.
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

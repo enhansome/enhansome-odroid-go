@@ -16,7 +16,8 @@
             "owner": "OtherCrashOverride",
             "repo": "go-play",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mattkj",
             "repo": "super-go-play",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Schuemi",
             "repo": "c64-go",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Schuemi",
             "repo": "fMSX-go",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "OtherCrashOverride",
             "repo": "stella-odroid-go",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "OtherCrashOverride",
             "repo": "frodo-go",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "IlyaMZP",
             "repo": "emulator-launcher-odroid-go",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "OtherCrashOverride",
             "repo": "prosystem-odroid-go",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "OtherCrashOverride",
             "repo": "nes-mp-go",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         }
       ],
       "title": "Awesome ODROID-GO"
@@ -157,7 +166,8 @@
             "owner": "jkirsons",
             "repo": "Duke3D",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "jkirsons",
             "repo": "OpenTyrian",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "jkirsons",
             "repo": "wolf4sdl",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "mad-ady",
             "repo": "doom-odroid-go",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "jkirsons",
             "repo": "CloneKeen",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "mad-ady",
             "repo": "doom-ng-odroid-go",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "khuenqdev",
             "repo": "goduino",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "vbrusca",
             "repo": "FlappyBirdCloneOdroidGo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "johannesbehr",
             "repo": "mulg-go",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         }
       ],
       "title": "Games"
@@ -298,7 +316,8 @@
             "owner": "ripper121",
             "repo": "odroidgoupdater",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "ripper121",
             "repo": "odroidgoupdater",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "OtherCrashOverride",
             "repo": "MicroPython_ESP32_psRAM_LoBo-odroid-go",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "ripper121",
             "repo": "OdroidGoOSMGPSOffline",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "ripper121",
             "repo": "odroidgomp3",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "ripper121",
             "repo": "odroidgowifisniffer",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "asirinelli",
             "repo": "odroid-go-bb8",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         }
       ],
       "title": "Apps"
@@ -409,7 +434,8 @@
             "owner": "OtherCrashOverride",
             "repo": "bt-keyboard-go",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "dleslie",
             "repo": "odroid-go-examples-for-esp-idf",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:23:37.363Z"
         }
       ],
       "title": "Extras"
@@ -447,7 +474,8 @@
                 "owner": "hardkernel",
                 "repo": "ODROID-GO",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-29T02:23:37.363Z"
             }
           ],
           "description": null,
@@ -469,7 +497,8 @@
                 "owner": "ducalex",
                 "repo": "odroid-go-multi-firmware",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T02:23:37.363Z"
             }
           ],
           "description": null,
@@ -493,7 +522,8 @@
                     "owner": "sparkfun",
                     "repo": "ESP32_Miscellany",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:23:37.363Z"
                 }
               ],
               "description": null,
@@ -515,7 +545,8 @@
                     "owner": "retro-esp32",
                     "repo": "Odroid-GO-ILI9342",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:23:37.363Z"
                 }
               ],
               "description": null,
@@ -532,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:39:08.755Z",
+    "last_updated": "2026-08-29T02:23:37.363Z",
     "original_repository_info": {
       "archived": false,
       "id": 163915403,
