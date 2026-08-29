@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro emulation for the ODROID-GO",
+            "homepage": "https://www.hardkernel.com/shop/odroid-go/",
             "id": 137759166,
             "language": "C",
+            "license": null,
             "last_commit": "2020-02-29T17:00:30Z",
+            "open_issues": 37,
             "owner": "OtherCrashOverride",
             "repo": "go-play",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro emulation for the ODROID-GO",
+            "homepage": "https://www.hardkernel.com/main/products/prdt_info.php?g_code=G152875062626",
             "id": 172660001,
             "language": "C",
+            "license": null,
             "last_commit": "2020-02-29T17:01:54Z",
+            "open_issues": 1,
             "owner": "mattkj",
             "repo": "super-go-play",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "emulation",
+              "esp32",
+              "hardkernel",
+              "odroid-go",
+              "retrogaming"
+            ]
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C64 Emulator for ODROID-GO based on Frodo",
+            "homepage": null,
             "id": 151818726,
             "language": "C",
+            "license": null,
             "last_commit": "2019-03-19T16:09:36Z",
+            "open_issues": 5,
             "owner": "Schuemi",
             "repo": "c64-go",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -58,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fMSX Port to ODROID-GO",
+            "homepage": null,
             "id": 144999661,
             "language": "C",
+            "license": null,
             "last_commit": "2018-10-24T10:52:45Z",
+            "open_issues": 10,
             "owner": "Schuemi",
             "repo": "fMSX-go",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -74,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atari 2600 retro emulation for ODROID-GO.",
+            "homepage": null,
             "id": 143240535,
             "language": "C",
+            "license": null,
             "last_commit": "2020-03-01T18:13:48Z",
+            "open_issues": 3,
             "owner": "OtherCrashOverride",
             "repo": "stella-odroid-go",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -90,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C64 emulation for ODROID-GO",
+            "homepage": null,
             "id": 154238911,
             "language": "C",
+            "license": null,
             "last_commit": "2018-11-01T13:44:31Z",
+            "open_issues": 2,
             "owner": "OtherCrashOverride",
             "repo": "frodo-go",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -106,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Emulator Launcher for Odroid Go to replace Springboard",
+            "homepage": null,
             "id": 163631526,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-15T03:14:19Z",
+            "open_issues": 0,
             "owner": "IlyaMZP",
             "repo": "emulator-launcher-odroid-go",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -122,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atari 7800 retro emulation for ODROID-GO.",
+            "homepage": null,
             "id": 143414749,
             "language": "C",
+            "license": null,
             "last_commit": "2018-08-06T07:15:27Z",
+            "open_issues": 2,
             "owner": "OtherCrashOverride",
             "repo": "prosystem-odroid-go",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -138,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NES Multiplayer for ODROID-GO",
+            "homepage": null,
             "id": 169234067,
             "language": "C",
+            "license": null,
             "last_commit": "2019-02-05T12:02:23Z",
+            "open_issues": 0,
             "owner": "OtherCrashOverride",
             "repo": "nes-mp-go",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         }
@@ -160,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chocloate Duke3D ESP32 Port",
+            "homepage": null,
             "id": 155053230,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2018-12-17T07:09:59Z",
+            "open_issues": 1,
             "owner": "jkirsons",
             "repo": "Duke3D",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -176,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTyrian for ESP32",
+            "homepage": null,
             "id": 148194640,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-06-10T10:50:52Z",
+            "open_issues": 0,
             "owner": "jkirsons",
             "repo": "OpenTyrian",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -192,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wolfenstein 3D for SDL (Zipit Z2 Port)",
+            "homepage": null,
             "id": 158581363,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-19T17:50:33Z",
+            "open_issues": 1,
             "owner": "jkirsons",
             "repo": "wolf4sdl",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -208,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doom port for Odroid-GO (ESP32)",
+            "homepage": null,
             "id": 142557260,
             "language": "C",
+            "license": null,
             "last_commit": "2018-08-27T10:53:45Z",
+            "open_issues": 0,
             "owner": "mad-ady",
             "repo": "doom-odroid-go",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -224,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odroiod GO port of CloneKeen",
+            "homepage": null,
             "id": 171100439,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2019-02-23T13:32:16Z",
+            "open_issues": 3,
             "owner": "jkirsons",
             "repo": "CloneKeen",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -240,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Not supported",
+            "homepage": null,
             "id": 154833653,
             "language": "C",
+            "license": null,
             "last_commit": "2018-12-26T16:56:16Z",
+            "open_issues": 11,
             "owner": "mad-ady",
             "repo": "doom-ng-odroid-go",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -256,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some arduino programs for the ODROID-GO device",
+            "homepage": null,
             "id": 162346210,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-12-22T10:00:14Z",
+            "open_issues": 0,
             "owner": "khuenqdev",
             "repo": "goduino",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -272,12 +358,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A refined version of the flappy bird app for the odroid-go.",
+            "homepage": null,
             "id": 166884881,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-03-13T14:25:25Z",
+            "open_issues": 0,
             "owner": "vbrusca",
             "repo": "FlappyBirdCloneOdroidGo",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "flappy-bird-clone",
+              "odroid-go"
+            ]
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -288,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of the great game Mulg from Till Harbaum to ODROID GO",
+            "homepage": null,
             "id": 185979773,
             "language": "C",
+            "license": null,
             "last_commit": "2019-05-10T12:33:14Z",
+            "open_issues": 0,
             "owner": "johannesbehr",
             "repo": "mulg-go",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         }
@@ -310,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odroid Go FW Updater",
+            "homepage": null,
             "id": 172908477,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-01-09T11:43:25Z",
+            "open_issues": 1,
             "owner": "ripper121",
             "repo": "odroidgoupdater",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -326,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odroid Go FW Updater",
+            "homepage": null,
             "id": 172908477,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-01-09T11:43:25Z",
+            "open_issues": 1,
             "owner": "ripper121",
             "repo": "odroidgoupdater",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -342,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MicroPython for ESP32 with psRAM support",
+            "homepage": null,
             "id": 142483153,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-26T22:14:15Z",
+            "open_issues": 0,
             "owner": "OtherCrashOverride",
             "repo": "MicroPython_ESP32_psRAM_LoBo-odroid-go",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -358,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odroid Go OSM GPS Offline",
+            "homepage": null,
             "id": 169060648,
             "language": "C",
+            "license": null,
             "last_commit": "2021-06-23T08:14:45Z",
+            "open_issues": 0,
             "owner": "ripper121",
             "repo": "OdroidGoOSMGPSOffline",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -374,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 179682791,
             "language": "C",
+            "license": null,
             "last_commit": "2019-04-17T12:01:29Z",
+            "open_issues": 0,
             "owner": "ripper121",
             "repo": "odroidgomp3",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -390,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odroid Go Wifi Sniffer PCAP",
+            "homepage": null,
             "id": 167940780,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2019-02-27T11:28:48Z",
+            "open_issues": 0,
             "owner": "ripper121",
             "repo": "odroidgowifisniffer",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -406,12 +535,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odroid-GO as a Sphero BB-8 remote control",
+            "homepage": null,
             "id": 150641864,
             "language": "C",
+            "license": null,
             "last_commit": "2019-01-23T22:52:19Z",
+            "open_issues": 0,
             "owner": "asirinelli",
             "repo": "odroid-go-bb8",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "bb-8",
+              "bluetooth",
+              "esp32",
+              "esp32-idf",
+              "gatt-client",
+              "odroid-go",
+              "sphero",
+              "sphero-ble"
+            ]
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         }
@@ -428,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use ODROID-GO as a Bluetooth LE device.",
+            "homepage": null,
             "id": 154239110,
             "language": "C",
+            "license": null,
             "last_commit": "2018-10-23T01:05:34Z",
+            "open_issues": 0,
             "owner": "OtherCrashOverride",
             "repo": "bt-keyboard-go",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         },
@@ -444,12 +592,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 168666016,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-06T01:28:22Z",
+            "open_issues": 0,
             "owner": "dleslie",
             "repo": "odroid-go-examples-for-esp-idf",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
         }
@@ -468,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 137728350,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-02-03T13:51:01Z",
+                "open_issues": 13,
                 "owner": "hardkernel",
                 "repo": "ODROID-GO",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:23:37.363Z"
             }
@@ -491,12 +649,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Odroid-go-multi-firmware is an improvement of the official ODROID-GO firmware. It allows you to keep multiple applications installed in the flash and switch instantly between them.",
+                "homepage": null,
                 "id": 189498747,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-10-22T10:14:23Z",
+                "open_issues": 2,
                 "owner": "ducalex",
                 "repo": "odroid-go-multi-firmware",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "odroid-go"
+                ]
               },
               "first_seen": "2026-08-29T02:23:37.363Z"
             }
@@ -516,12 +681,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A grab bag of ESP32-related documentation, example code, hardware diagrams, and more.",
+                    "homepage": null,
                     "id": 49985392,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-01-21T16:38:24Z",
+                    "open_issues": 0,
                     "owner": "sparkfun",
                     "repo": "ESP32_Miscellany",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:23:37.363Z"
                 }
@@ -539,12 +709,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESP32 version of Gaboze Pocaio based on Odroid-Go",
+                    "homepage": null,
                     "id": 186053494,
                     "language": "C",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2020-12-08T04:36:39Z",
+                    "open_issues": 0,
                     "owner": "retro-esp32",
                     "repo": "Odroid-GO-ILI9342",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "arduino",
+                      "arduino-library",
+                      "esp32",
+                      "ili9342",
+                      "make",
+                      "odroid",
+                      "odroid-go",
+                      "tft",
+                      "tft-display",
+                      "tft-lcd"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:23:37.363Z"
                 }
@@ -563,15 +749,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:23:37.363Z",
+    "last_updated": "2026-08-29T04:51:42.151Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",
+      "homepage": null,
       "id": 163915403,
       "language": null,
+      "license": null,
       "last_commit": "2022-05-31T19:50:43Z",
+      "open_issues": 3,
       "owner": "chrisdiana",
       "repo": "awesome-odroid-go",
-      "stars": 176
+      "stars": 176,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "games",
+        "odroid",
+        "odroid-go",
+        "odroid-go-advance"
+      ]
     },
     "original_repository_sha": "e443f35737dc5abb796bad1675975f823c3d5ee4",
     "enhanced_repository": "enhansome/enhansome-odroid-go",
