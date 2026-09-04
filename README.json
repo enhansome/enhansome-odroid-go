@@ -630,7 +630,7 @@
                 "open_issues": 13,
                 "owner": "hardkernel",
                 "repo": "ODROID-GO",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:23:37.363Z"
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:49:53.868Z",
+    "last_updated": "2026-09-04T21:41:12.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",

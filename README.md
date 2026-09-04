@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,691 | 🐛 105 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,007 | 🐛 106 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -71,7 +71,7 @@
 
 ### Official Resources
 
-* [Github](https://github.com/hardkernel/ODROID-GO) ⭐ 153 | 🐛 13 | 🌐 C | 📅 2023-02-03
+* [Github](https://github.com/hardkernel/ODROID-GO) ⭐ 154 | 🐛 13 | 🌐 C | 📅 2023-02-03
 * [Official Wiki](https://wiki.odroid.com/odroid_go/odroid_go)
 * [ODROID-GO by Hardkernel Forum](https://forum.odroid.com/viewforum.php?f=157)
 * [Official Hardkernel Website](https://www.hardkernel.com)
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
