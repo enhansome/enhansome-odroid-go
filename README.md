@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,616 | 🐛 106 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,008 | 🐛 106 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -43,7 +43,7 @@
 * [OpenTyrian](https://github.com/jkirsons/OpenTyrian/tree/master/release) ⭐ 28 | 🐛 0 | 🌐 C | 📅 2024-06-10
 * [Wolfenstein 3D & Spear of Destiny](https://github.com/jkirsons/wolf4sdl/tree/master/release) ⭐ 12 | 🐛 1 | 🌐 C++ | 📅 2019-01-19
 * [Doom](https://github.com/mad-ady/doom-odroid-go/releases) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-08-27
-* [CloneKeen](https://github.com/jkirsons/CloneKeen/tree/master/release) ⭐ 10 | 🐛 3 | 🌐 C | 📅 2019-02-23 - Commander Keen clone.
+* [CloneKeen](https://github.com/jkirsons/CloneKeen/tree/master/release) ⭐ 11 | 🐛 3 | 🌐 C | 📅 2019-02-23 - Commander Keen clone.
 * [Doom with sound](https://github.com/mad-ady/doom-ng-odroid-go/releases/) ⭐ 9 | 🐛 11 | 🌐 C | 📅 2018-12-26
 * [Pong](https://github.com/khuenqdev/goduino/tree/master/pong) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2018-12-22
 * [FlappyBird](https://github.com/vbrusca/FlappyBirdCloneOdroidGo/releases) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2019-03-13 - Flappy bird clone.
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
