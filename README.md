@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,008 | 🐛 106 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,422 | 🐛 106 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -78,7 +78,7 @@
 
 ### Guides & Tools
 
-* [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) ⭐ 73 | 🐛 2 | 🌐 C | 📅 2022-10-22 - orchestrate multiple skteches without reflashing
+* [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) ⭐ 74 | 🐛 2 | 🌐 C | 📅 2022-10-22 - orchestrate multiple skteches without reflashing
 * [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
 * [Make a SD card for importing roms](https://wiki.odroid.com/odroid_go/make_sd_card)
 * [Firmware Update](https://wiki.odroid.com/odroid_go/firmware_update)
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
