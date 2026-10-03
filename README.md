@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,121 | 🐛 107 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -55,7 +55,7 @@
 * [Firmware Updater](https://github.com/ripper121/odroidgoupdater) ⭐ 22 | 🐛 1 | 🌐 C++ | 📅 2020-01-09 - Odroid Go FW Updater.
 * [Odroid-Go Updater](https://github.com/ripper121/odroidgoupdater) ⭐ 22 | 🐛 1 | 🌐 C++ | 📅 2020-01-09 - updates firmwares over WiFi.
 * [MicroPython](https://github.com/OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2018-07-26
-* [GPS Navi with Odroid Go and Neo-6M](https://github.com/ripper121/OdroidGoOSMGPSOffline/raw/master/OdroidGo/bin) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2021-06-23
+* [GPS Navi with Odroid Go and Neo-6M](https://github.com/ripper121/OdroidGoOSMGPSOffline/raw/master/OdroidGo/bin) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2021-06-23
 * [MP3 Player](https://github.com/ripper121/odroidgomp3/releases) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2019-04-17 - Internal and external DAC.
 * [WIFI Sniffer PCAP Wireshark](https://github.com/ripper121/odroidgowifisniffer/tree/master/bin) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2019-02-27
 * [Sphero BB-8 remote control](https://github.com/asirinelli/odroid-go-bb8) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2019-01-23

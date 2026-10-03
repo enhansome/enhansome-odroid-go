@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "ripper121",
             "repo": "OdroidGoOSMGPSOffline",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:50.003Z",
+    "last_updated": "2026-10-03T22:20:49.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",
@@ -761,7 +761,7 @@
       "open_issues": 3,
       "owner": "chrisdiana",
       "repo": "awesome-odroid-go",
-      "stars": 177,
+      "stars": 178,
       "topics": [
         "awesome",
         "awesome-list",
