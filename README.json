@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "NES Multiplayer",
-          "description": null,
+          "description": "OtherCrashOverride/nes-mp-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "OpenTyrian",
-          "description": null,
+          "description": "jkirsons/OpenTyrian",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "Wolfenstein 3D & Spear of Destiny",
-          "description": null,
+          "description": "jkirsons/wolf4sdl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "Doom",
-          "description": null,
+          "description": "mad-ady/doom-odroid-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "Doom with sound",
-          "description": null,
+          "description": "mad-ady/doom-ng-odroid-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "Pong",
-          "description": null,
+          "description": "khuenqdev/goduino",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "MicroPython",
-          "description": null,
+          "description": "OtherCrashOverride/MicroPython_ESP32_psRAM_LoBo-odroid-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "GPS Navi with Odroid Go and Neo-6M",
-          "description": null,
+          "description": "ripper121/OdroidGoOSMGPSOffline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -510,7 +510,7 @@
         {
           "node_type": "item",
           "title": "WIFI Sniffer PCAP Wireshark",
-          "description": null,
+          "description": "ripper121/odroidgowifisniffer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -531,7 +531,7 @@
         {
           "node_type": "item",
           "title": "Sphero BB-8 remote control",
-          "description": null,
+          "description": "asirinelli/odroid-go-bb8",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -588,7 +588,7 @@
         {
           "node_type": "item",
           "title": "ESP-IDF Port of the Examples",
-          "description": null,
+          "description": "dleslie/odroid-go-examples-for-esp-idf",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -617,7 +617,7 @@
             {
               "node_type": "item",
               "title": "hardkernel/ODROID-GO",
-              "description": null,
+              "description": "hardkernel/ODROID-GO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,7 +677,7 @@
                 {
                   "node_type": "item",
                   "title": "ESP32 Miscellany",
-                  "description": null,
+                  "description": "sparkfun/ESP32_Miscellany",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -705,7 +705,7 @@
                 {
                   "node_type": "item",
                   "title": "2.6\" 320 x 240 - ILI9342 Libraries",
-                  "description": null,
+                  "description": "retro-esp32/Odroid-GO-ILI9342",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:10:22.307Z",
+    "last_updated": "2026-10-03T04:57:50.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",
