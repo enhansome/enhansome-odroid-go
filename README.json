@@ -241,7 +241,7 @@
             "open_issues": 0,
             "owner": "jkirsons",
             "repo": "OpenTyrian",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:20:49.981Z",
+    "last_updated": "2026-10-04T22:26:30.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",
