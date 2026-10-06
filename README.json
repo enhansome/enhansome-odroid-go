@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "jkirsons",
             "repo": "Duke3D",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T02:23:37.363Z"
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:54:57.131Z",
+    "last_updated": "2026-10-06T11:10:14.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",

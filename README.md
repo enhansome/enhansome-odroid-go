@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,173 | 🐛 107 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -39,7 +39,7 @@
 
 # Games
 
-* [Duke Nukem 3D](https://github.com/jkirsons/Duke3D/tree/master/release) ⭐ 50 | 🐛 1 | 🌐 C | 📅 2018-12-17 - [youtube](https://www.youtube.com/watch?v=S-DgYw0V4NQ\&feature=youtu.be).
+* [Duke Nukem 3D](https://github.com/jkirsons/Duke3D/tree/master/release) ⭐ 51 | 🐛 1 | 🌐 C | 📅 2018-12-17 - [youtube](https://www.youtube.com/watch?v=S-DgYw0V4NQ\&feature=youtu.be).
 * [OpenTyrian](https://github.com/jkirsons/OpenTyrian/tree/master/release) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2024-06-10
 * [Wolfenstein 3D & Spear of Destiny](https://github.com/jkirsons/wolf4sdl/tree/master/release) ⭐ 12 | 🐛 1 | 🌐 C++ | 📅 2019-01-19
 * [Doom](https://github.com/mad-ady/doom-odroid-go/releases) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-08-27
