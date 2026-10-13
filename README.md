@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,680 | 🐛 105 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,192 | 🐛 105 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -71,14 +71,14 @@
 
 ### Official Resources
 
-* [Github](https://github.com/hardkernel/ODROID-GO) ⭐ 155 | 🐛 13 | 🌐 C | 📅 2023-02-03
+* [Github](https://github.com/hardkernel/ODROID-GO) ⭐ 156 | 🐛 13 | 🌐 C | 📅 2023-02-03
 * [Official Wiki](https://wiki.odroid.com/odroid_go/odroid_go)
 * [ODROID-GO by Hardkernel Forum](https://forum.odroid.com/viewforum.php?f=157)
 * [Official Hardkernel Website](https://www.hardkernel.com)
 
 ### Guides & Tools
 
-* [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) ⭐ 74 | 🐛 2 | 🌐 C | 📅 2022-10-22 - orchestrate multiple skteches without reflashing
+* [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) ⭐ 75 | 🐛 2 | 🌐 C | 📅 2022-10-22 - orchestrate multiple skteches without reflashing
 * [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
 * [Make a SD card for importing roms](https://wiki.odroid.com/odroid_go/make_sd_card)
 * [Firmware Update](https://wiki.odroid.com/odroid_go/firmware_update)
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
