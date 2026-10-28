@@ -690,7 +690,7 @@
                     "open_issues": 0,
                     "owner": "sparkfun",
                     "repo": "ESP32_Miscellany",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:23:37.363Z"
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:03:44.594Z",
+    "last_updated": "2026-10-28T23:25:15.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",

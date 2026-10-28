@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,714 | 🐛 105 | 📅 2026-09-02
+## Awesome ODROID-GO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,302 | 🐛 105 | 📅 2026-09-02
 
 > A collection of awesome [ODROID-GO](https://wiki.odroid.com/odroid_go/odroid_go) emulators, games and resources
 
@@ -90,7 +90,7 @@
 
 #### Hardware
 
-* [ESP32 Miscellany](https://github.com/sparkfun/ESP32_Miscellany) ⭐ 76 | 🐛 0 | 🌐 C | 📅 2016-01-21
+* [ESP32 Miscellany](https://github.com/sparkfun/ESP32_Miscellany) ⭐ 77 | 🐛 0 | 🌐 C | 📅 2016-01-21
 
 #### Arduino
 
@@ -129,4 +129,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
