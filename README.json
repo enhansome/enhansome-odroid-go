@@ -658,7 +658,7 @@
                 "open_issues": 2,
                 "owner": "ducalex",
                 "repo": "odroid-go-multi-firmware",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "odroid-go"
                 ]
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:46:17.483Z",
+    "last_updated": "2026-11-07T22:54:36.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",
