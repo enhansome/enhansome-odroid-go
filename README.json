@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:25:10.600Z",
+    "last_updated": "2026-11-24T04:22:31.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A collection of awesome ODROID-GO emulators, games & resources 👾",
@@ -761,7 +761,7 @@
       "open_issues": 3,
       "owner": "chrisdiana",
       "repo": "awesome-odroid-go",
-      "stars": 177,
+      "stars": 178,
       "topics": [
         "awesome",
         "awesome-list",
